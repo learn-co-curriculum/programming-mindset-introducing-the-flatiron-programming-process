@@ -86,7 +86,7 @@ When it comes to code, it's important to remember that you don't only want to
 implement your solution, you want to optimize your implementation. To find ways
 to keep your implementation simple and readable, you can use documentation to
 see if heavy lifting work has already been done for you. If you see that it has,
-but you don’t understand how to use it, experiment in IRB and bring your new
+but you don’t understand how to use it, test out the code and bring your new
 understanding to your implementation’s design.
 
 ### Translate the Procedure Description into Code
