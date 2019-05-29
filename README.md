@@ -71,8 +71,8 @@ about the input, we need to dig into implementation and build out our
 understanding of its process.
 
 Implementation, simply stated, is the set of steps that combine inputs to
-produce outputs. If we've clearly identified inputs, desired ouputs and
-neccessary procedures, the steps we need to take should fall into place. Let's
+produce outputs. If we've clearly identified inputs, desired outputs and
+necessary procedures, the steps we need to take should fall into place. Let's
 take the above example of averaging numbers:
 
 1. Input values
