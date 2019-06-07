@@ -120,3 +120,4 @@ be able to know you're still on the right track until you get there.
 Remember—coding is your last step before verifying your output! The more we can
 break down and think through a problem, using this Flatiron process, the easier
 and better our code will be, which is exactly why we use it.
+
