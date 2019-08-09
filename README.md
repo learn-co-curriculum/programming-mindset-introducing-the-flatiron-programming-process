@@ -21,6 +21,8 @@ We can break the Flatiron Process down into seven steps:
 6) Translate the procedure description into code
 7) Verify the procedure's output
 
+![The seven steps of the Flatiron Programming Process](https://curriculum-content.s3.amazonaws.com/programming-mindset/flatiron-programming-process/Image_47_ProgrammingProcess.png)
+
 ### Identify the Problem
 
 When you run into a programming problem, it's easy to get lost in the code. Take
